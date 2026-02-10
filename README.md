@@ -15,8 +15,8 @@ Professional AI system that learns video editing styles from reference videos an
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd learn_fictic
+git clone https://github.com/udaydomadiya08/ai-video-editor.git
+cd ai-video-editor
 ```
 
 ### 2. Create Virtual Environment (Recommended)
